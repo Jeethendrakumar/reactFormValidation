@@ -1,7 +1,7 @@
 import React from 'react'
 import Card, { CardItem } from './common/card'
 
-class Test extends React.Component {
+class App extends React.Component {
   constructor(props) {
     super(props);
 
@@ -239,4 +239,4 @@ class Test extends React.Component {
   }
 }
 
-export default Test
+export default App
